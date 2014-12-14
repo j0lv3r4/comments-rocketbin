@@ -1,1 +1,1 @@
-web: gunicorn isso.dispatch -b localhost:8080 
+web: isso -c isso.cfg run
