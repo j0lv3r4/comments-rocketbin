@@ -1,1 +1,1 @@
-web: isso -c isso.cfg run
+web: isso -c ~/isso.cfg run
