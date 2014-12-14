@@ -1,5 +1,8 @@
 Werkzeug==0.9.6
 configparser==3.3.0r2
+gevent==1.0.1
+greenlet==0.4.5
+gunicorn==19.1.1
 html5lib==0.999
 ipaddr==2.1.11
 isso==0.9.8
