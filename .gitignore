@@ -3,5 +3,3 @@ venv
 *.swp
 *.sh
 .DS_Store
-comments.db
-isso.cfg
